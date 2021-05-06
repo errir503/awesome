@@ -2,6 +2,7 @@
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
+	<hr>
 	<p>
 		<p>
 			<sup>
@@ -23,7 +24,7 @@
 		<br>
 		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
 			<div>
-				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="240" alt="Doppler">
+				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="230" alt="Doppler">
 			</div>
 			<b>All your environment variables, in one place</b>
 			<div>
@@ -32,7 +33,20 @@
 				<sup>and avoiding access controls. Keep your team and servers in sync with Doppler.</sup>
 			</div>
 		</a>
+		<br>
+		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
+			</div>
+			<b>Your app, enterprise-ready.</b>
+			<div>
+				<sub>Start selling to enterprise customers with just a few lines of code.</sub>
+				<br>
+				<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
+			</div>
+		</a>
 	</p>
+	<hr>
 	<br>
 	<br>
 	<br>
@@ -484,6 +498,7 @@
 - [Contexture](https://github.com/chrislatorres/awesome-contexture#readme) - Abstracts queries/filters and results/aggregations from different backing data stores like ElasticSearch and MongoDB.
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
 - [Grakn](https://github.com/graknlabs/awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
+- [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 
 ## Media
 
